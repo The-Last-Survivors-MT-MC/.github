@@ -5,7 +5,7 @@ Originally created by dew and yayyer through the help of MarisaG from which she 
 This server features mods duly customized to its owners and players' taste, catering to listen to its community's suggestions with no bias. Some of them include but are not limited to:
 - ethereal
 - ethereal bosses
-- xpro
+- xp redo
 - gemstones
 - ice armor and tools
 - realistic glider
@@ -13,5 +13,7 @@ This server features mods duly customized to its owners and players' taste, cate
 - basic machines
 - vacuum
 - spacesuit
+- lightsabers
+- 7DTC
 
 *more readme contents to be added, WIP*
